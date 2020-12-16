@@ -9,7 +9,7 @@ PC with Linux (CentOS7)
 MATLAB 2019b or later (https://www.mathworks.com/products/matlab.html)
 
 ## Installation Instructions
-1.	Decompress OMAL_PVM_Analyzer_v201216.zip file.
+1.	Decompress the OMAL_PVM_Analyzer_v201216.zip file. This contains the code and tutorial. Decompress the tutorial_sample_data.avi.zip file. This contains the sample avi file.
 2.  Copy the OPA_v201118 folder into your MATLAB working directory. Alternatively, after launching MATLAB, the folder can be added to your MATLAB path by right-clicking on the folder, and selecting ‘Add to Path’ -> ‘Selected Folders and Subfolders’.
 3.	Create a new folder in a desired location (e.g., ~/Desktop/) and copy the .avi file you wish to analyze into it. A sample .avi file (‘tutorial_sample_data.avi’) of the adenine riboswitch crystal solid-solid phase transition has been provided.
 
