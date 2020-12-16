@@ -14,5 +14,5 @@ MATLAB 2019b or later (https://www.mathworks.com/products/matlab.html)
 3.	Create a new folder in a desired location (e.g., ~/Desktop/) and copy the .avi file you wish to analyze into it. A sample .avi file (‘tutorial_sample_data.avi’) of the adenine riboswitch crystal solid-solid phase transition has been provided.
 
 ## For more information
-Included in the compressed file is a tutorial (OPA_v201118_tutorial.docx)describing how to use the software.
+Included in the compressed file is a tutorial (OPA_v201118_tutorial.docx) describing how to use the software.
 
